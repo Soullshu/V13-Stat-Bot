@@ -1,0 +1,8 @@
+{
+  "publicParents": ["Public ses kanallarının olduğu katagori ID"], 
+  "registerParents": ["Kayıt ses kanallarının olduğu katagori ID"],
+  "solvingParents":["Sorun Çözme ses kanallarının olduğu katagori ID"],
+  "privateParents": ["Priv ses kanallarının olduğu katagori ID"],
+  "aloneParents": ["Tek kişilik ses kanallarının olduğu katagori ID"],
+  "funParents": ["Eğlence ses kanallarının olduğu katagori ID"]
+}

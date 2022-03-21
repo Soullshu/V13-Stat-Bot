@@ -1,0 +1,24 @@
+{
+  "name": "v13-stat-bot",
+  "version": "0.0.1",
+  "description": "v13 stat bot.",
+  "main": "serkan.js",
+  "scripts": {
+    "start": "node serkan.js",
+    "start:dev": "nodemon serkan.js"
+  },
+  "dependencies": {
+    "ark.db": "^2.6.9",
+    "cron": "^1.8.2",
+    "discord.js": "^13.0.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.11.14"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "nodemon": "^2.0.7",
+    "prettier": "^2.3.0"
+  }
+}
